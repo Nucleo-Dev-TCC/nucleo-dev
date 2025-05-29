@@ -137,6 +137,10 @@ input, textarea {
 #portfolio h2{
     text-align: center;
 }
+.portfolio-items{
+    margin: 0 auto;
+    justify-content: center;
+}
 button {
   background: #0f172a;
   color: white;
