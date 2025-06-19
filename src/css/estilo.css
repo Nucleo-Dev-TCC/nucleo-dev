@@ -51,8 +51,8 @@ nav a {
   max-width: 50%;
 }
 
-.hero-img {
-  width: 40%;
+.hero-img img{
+  width: 120%;
   height: 200px;
   background: #cbd5e1;
 }
@@ -76,7 +76,7 @@ section {
   padding-left: 1.5rem;
 }
 
-.portfolio-items {
+/* .portfolio-items {
   display: flex;
   gap: 1rem;
 }
@@ -85,7 +85,7 @@ section {
   width: 30%;
   height: 150px;
   background: #cbd5e1;
-}
+} */
 
 .mvvs {
   display: flex;
